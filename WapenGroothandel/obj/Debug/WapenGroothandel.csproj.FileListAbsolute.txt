@@ -1,0 +1,67 @@
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmBestellingen.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmHoofdmenu.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmLogin.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOver.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOverzichtBestellingen.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmPersoneel.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmStock.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmVerzendingen.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.Properties.Resources.resources
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.GenerateResource.cache
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.CoreCompileInputs.cache
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe.config
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.pdb
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.exe
+D:\Opleiding\Repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.pdb
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe.config
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.pdb
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csprojAssemblyReference.cache
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmBestellingen.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmHoofdmenu.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmLogin.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOver.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOverzichtBestellingen.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmPersoneel.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmStock.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmVerzendingen.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.Properties.Resources.resources
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.GenerateResource.cache
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.CoreCompileInputs.cache
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.exe
+C:\Users\s-vdv\source\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.pdb
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe.config
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.pdb
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csprojAssemblyReference.cache
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmBestellingen.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmHoofdmenu.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmLogin.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOver.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOverzichtBestellingen.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmPersoneel.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmStock.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmVerzendingen.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.Properties.Resources.resources
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.GenerateResource.cache
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.CoreCompileInputs.cache
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.exe
+C:\Users\s-vdv\OneDrive\repos\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.pdb
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe.config
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.exe
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\bin\Debug\WapenGroothandel.pdb
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csprojAssemblyReference.cache
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmBestellingen.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmHoofdmenu.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmLogin.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOver.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmOverzichtBestellingen.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmPersoneel.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmStock.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.FrmVerzendingen.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.Properties.Resources.resources
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.GenerateResource.cache
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.csproj.CoreCompileInputs.cache
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.exe
+C:\Users\s-vdv\OneDrive\repos gitlab\project-2-doorverkopers\WapenGroothandel\obj\Debug\WapenGroothandel.pdb

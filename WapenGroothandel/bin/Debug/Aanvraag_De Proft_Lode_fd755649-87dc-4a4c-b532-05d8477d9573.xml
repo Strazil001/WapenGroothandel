@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bestellingen Datumtijd="2/14/2021 5:43:58 PM" Klantnaam="De Proft Lode">
+  <Bestelling>
+    <ArtikelNummer>1001</ArtikelNummer>
+    <Modelnummer>1111</Modelnummer>
+    <Hoeveelheid>32</Hoeveelheid>
+  </Bestelling>
+  <Bestelling>
+    <ArtikelNummer>1003</ArtikelNummer>
+    <Modelnummer>1100</Modelnummer>
+    <Hoeveelheid>16</Hoeveelheid>
+  </Bestelling>
+  <Bestelling>
+    <ArtikelNummer>1002</ArtikelNummer>
+    <Modelnummer>35</Modelnummer>
+    <Hoeveelheid>5</Hoeveelheid>
+  </Bestelling>
+</Bestellingen>

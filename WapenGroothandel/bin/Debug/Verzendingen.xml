@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfBestellingen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bestellingen Datum="2021-02-12T18:51:18.1814038+01:00">
+    <Artikelnummer>1001</Artikelnummer>
+    <Modelnummer>2020001</Modelnummer>
+    <Hoeveelheid>25</Hoeveelheid>
+  </Bestellingen>
+  <Bestellingen Datum="2021-02-12T18:51:31.4182734+01:00">
+    <Artikelnummer>1002</Artikelnummer>
+    <Modelnummer>2020001</Modelnummer>
+    <Hoeveelheid>45</Hoeveelheid>
+  </Bestellingen>
+  <Bestellingen Datum="2021-02-12T18:51:43.4999575+01:00">
+    <Artikelnummer>1003</Artikelnummer>
+    <Modelnummer>2020001</Modelnummer>
+    <Hoeveelheid>10</Hoeveelheid>
+  </Bestellingen>
+  <Bestellingen Datum="2021-02-12T18:51:54.0358964+01:00">
+    <Artikelnummer>1004</Artikelnummer>
+    <Modelnummer>2020001</Modelnummer>
+    <Hoeveelheid>200</Hoeveelheid>
+  </Bestellingen>
+  <Bestellingen Datum="2021-02-12T18:52:18.6360335+01:00">
+    <Artikelnummer>1005</Artikelnummer>
+    <Modelnummer>2020001</Modelnummer>
+    <Hoeveelheid>2</Hoeveelheid>
+  </Bestellingen>
+  <Bestellingen Datum="2021-02-12T18:52:27.5618518+01:00">
+    <Artikelnummer>1006</Artikelnummer>
+    <Modelnummer>2020001</Modelnummer>
+    <Hoeveelheid>50</Hoeveelheid>
+  </Bestellingen>
+</ArrayOfBestellingen>

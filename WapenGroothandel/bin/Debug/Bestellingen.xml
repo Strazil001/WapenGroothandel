@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bestellingen>
+  <Bestelling>
+    <ID>4ace4075-cb8e-4221-abd7-fc998afa08b3</ID>
+    <KlantId>fd755649-87dc-4a4c-b532-05d8477d9573</KlantId>
+    <LeverancierId>4203686e-9f0b-41a6-a8f0-cee3f00e29e8</LeverancierId>
+    <Datum>14-02-2021</Datum>
+    <Type>Aankoop</Type>
+    <Artikelen>
+      <ArtikelBestelling>
+        <ID>63348567-bb27-470f-9e8f-e0db12cf1c16</ID>
+        <ArtikelId>b7f49971-ff45-4035-bc00-9955b31503fa</ArtikelId>
+        <Hoeveelheid>32</Hoeveelheid>
+      </ArtikelBestelling>
+      <ArtikelBestelling>
+        <ID>8cf8a47b-f03a-41f0-a3b5-9516c616d300</ID>
+        <ArtikelId>a011b882-01d4-4183-a408-281ffbdae1a9</ArtikelId>
+        <Hoeveelheid>16</Hoeveelheid>
+      </ArtikelBestelling>
+      <ArtikelBestelling>
+        <ID>9514d256-ef14-46b3-ae11-7d3faa84bcf4</ID>
+        <ArtikelId>c4010724-950b-49d2-a24f-6f2a921b4136</ArtikelId>
+        <Hoeveelheid>5</Hoeveelheid>
+      </ArtikelBestelling>
+    </Artikelen>
+  </Bestelling>
+</Bestellingen>

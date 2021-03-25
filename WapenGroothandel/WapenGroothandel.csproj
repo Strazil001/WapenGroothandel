@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8713D17C-1E96-4EBF-B233-F26DABCA6E49}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WapenGroothandel</RootNamespace>
+    <AssemblyName>WapenGroothandel</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adres.cs" />
+    <Compile Include="Artikel.cs" />
+    <Compile Include="ArtikelBestelling.cs" />
+    <Compile Include="ArtikelData.cs" />
+    <Compile Include="BaseData.cs" />
+    <Compile Include="Bestelling.cs" />
+    <Compile Include="BestellingAanvraag.cs" />
+    <Compile Include="BestellingData.cs" />
+    <Compile Include="Bestellingen.cs" />
+    <Compile Include="DataManager.cs" />
+    <Compile Include="Entiteit.cs" />
+    <Compile Include="EntiteitAdres.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="Factuur.cs" />
+    <Compile Include="FrmBestellingen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBestellingen.Designer.cs">
+      <DependentUpon>FrmBestellingen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHoofdmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHoofdmenu.Designer.cs">
+      <DependentUpon>FrmHoofdmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOver.Designer.cs">
+      <DependentUpon>FrmOver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOverzichtBestellingen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOverzichtBestellingen.Designer.cs">
+      <DependentUpon>FrmOverzichtBestellingen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPersoneel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPersoneel.Designer.cs">
+      <DependentUpon>FrmPersoneel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStock.Designer.cs">
+      <DependentUpon>FrmStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVerzendingen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVerzendingen.Designer.cs">
+      <DependentUpon>FrmVerzendingen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Klant.cs" />
+    <Compile Include="KlantData.cs" />
+    <Compile Include="Leverancier.cs" />
+    <Compile Include="LeverancierArtikel.cs" />
+    <Compile Include="LeverancierData.cs" />
+    <Compile Include="Locatie.cs" />
+    <Compile Include="LocatieVerpakking.cs" />
+    <Compile Include="Offerte.cs" />
+    <Compile Include="Personeel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton.cs" />
+    <Compile Include="Stock.cs" />
+    <Compile Include="StockLocatie.cs" />
+    <Compile Include="Userww.cs" />
+    <Compile Include="Valuta.cs" />
+    <Compile Include="Verpakking.cs" />
+    <Compile Include="VerpakkingArtikel.cs" />
+    <EmbeddedResource Include="FrmBestellingen.resx">
+      <DependentUpon>FrmBestellingen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHoofdmenu.resx">
+      <DependentUpon>FrmHoofdmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOver.resx">
+      <DependentUpon>FrmOver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOverzichtBestellingen.resx">
+      <DependentUpon>FrmOverzichtBestellingen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPersoneel.resx">
+      <DependentUpon>FrmPersoneel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStock.resx">
+      <DependentUpon>FrmStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVerzendingen.resx">
+      <DependentUpon>FrmVerzendingen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

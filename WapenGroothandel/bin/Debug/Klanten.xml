@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<ArrayOfKlant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Klant>
+    <ID>78a08922-10da-46e9-8a2e-54c7f5be334d</ID>
+    <Naam>Luc</Naam>
+    <Voornaam>De raes</Voornaam>
+    <TelNummer>0487123432</TelNummer>
+    <EMail>Lucderaes@live.be</EMail>
+    <Contactpersoon>Chantalle</Contactpersoon>
+    <Opmerking>geen opmerkingen</Opmerking>
+    <Leveradres>Kouterstraat 22 bus 0
+4340 Zottegem
+Belgie</Leveradres>
+    <Factuuradres>Kouterstraat 22 bus 0
+4340 Zottegem
+Belgie</Factuuradres>
+    <BTWNummer>BE 0123 456 789</BTWNummer>
+  </Klant>
+  <Klant>
+    <ID>7d1de04f-d389-4bb4-82de-caa780b7222d</ID>
+    <Naam>Peter</Naam>
+    <Voornaam>De Smet</Voornaam>
+    <TelNummer>0496543465</TelNummer>
+    <EMail>Peterdesmet@Gunsollutions.be</EMail>
+    <Contactpersoon>Tom</Contactpersoon>
+    <Opmerking>geen opmerkingen</Opmerking>
+    <Leveradres>Vriesstraat 455 bus 0
+6565 Ledegem
+Belgie</Leveradres>
+    <Factuuradres>Vriesstraat 455 bus 0
+6565 Ledegem
+Belgie</Factuuradres>
+    <BTWNummer>BE 3322 122 546</BTWNummer>
+  </Klant>
+  <Klant>
+    <ID>ab7c36c5-344a-4e08-893f-a9e879b8a438</ID>
+    <Naam>Tom</Naam>
+    <Voornaam>Raeymaeckers</Voornaam>
+    <TelNummer>0485633163</TelNummer>
+    <EMail>Tomraeymaeckers@Defense.be</EMail>
+    <Contactpersoon>Pascalle</Contactpersoon>
+    <Opmerking>geen opmerkingen</Opmerking>
+    <Leveradres>De Waelestraat 121 bus 0
+6261 Hofstade
+Belgie</Leveradres>
+    <Factuuradres>De Waelestraat 121 bus 0
+6261 Hofstade
+Belgie</Factuuradres>
+    <BTWNummer>BE 5445 342 671</BTWNummer>
+  </Klant>
+  <Klant>
+    <ID>703e8c46-3c76-4e8f-8583-f098dbd46af7</ID>
+    <Naam>Tim</Naam>
+    <Voornaam>De Groote</Voornaam>
+    <TelNummer>0469421122</TelNummer>
+    <EMail>Timdegroote@maxsecurity.be</EMail>
+    <Contactpersoon>Mick</Contactpersoon>
+    <Opmerking>geen opmerkingen</Opmerking>
+    <Leveradres>Koterbaan 42 bus 0
+3211 Leopoldsburg
+Belgie</Leveradres>
+    <Factuuradres>Koterbaan 42 bus 0
+3211 Leopoldsburg
+Belgie</Factuuradres>
+    <BTWNummer>BE 5654 322 877</BTWNummer>
+  </Klant>
+</ArrayOfKlant>

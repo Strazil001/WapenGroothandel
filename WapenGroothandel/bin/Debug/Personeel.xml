@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Personeelsleden
+  datumtijd="2/14/2021 12:13:09 AM">
+  <Personeel>
+    <guid>c0434b9f-ddce-489e-8573-caf9805b3208</guid>
+    <naam>De Proft</naam>
+    <voornaam>Lode</voornaam>
+    <geboorteDatum>12/03/1996</geboorteDatum>
+    <geslacht>m</geslacht>
+    <rijksregisterNummer>0123456789</rijksregisterNummer>
+    <functie>analyst programmeur</functie>
+    <gebruikersNaam>User_Lode</gebruikersNaam>
+    <wachtwoord>12Maart1996</wachtwoord>
+    <loon>2100</loon>
+    <telNummer>038894545</telNummer>
+    <eMail>lode@Email.com</eMail>
+    <contactpersoon>contactTelefoon</contactpersoon>
+    <opmerking>opmerking</opmerking>
+  </Personeel>
+</Personeelsleden>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artikelen>
+  <Artikel>
+    <ID>b7f49971-ff45-4035-bc00-9955b31503fa</ID>
+    <Naam>Seyntex</Naam>
+    <Omschrijving>Modulaire</Omschrijving>
+    <Type>Frametent</Type>
+    <Gewicht>150</Gewicht>
+    <Prijs>2000</Prijs>
+    <Artikelnummer>1001</Artikelnummer>
+    <Modelnummer>1111</Modelnummer>
+    <Serienummer>10011111</Serienummer>
+    <AangemaaktOp>10/02/2021 13:32:18</AangemaaktOp>
+    <Garantieduur>10/02/2023 13:32:18</Garantieduur>
+    <Verpakking>62490bea-078f-4fde-aa4f-5b57d38702e0</Verpakking>
+    <BTW>0</BTW>
+  </Artikel>
+  <Artikel>
+    <ID>c4010724-950b-49d2-a24f-6f2a921b4136</ID>
+    <Naam>ACG1</Naam>
+    <Omschrijving>Middelzware</Omschrijving>
+    <Type>Cavalerie Tank</Type>
+    <Gewicht>14500</Gewicht>
+    <Prijs>25000</Prijs>
+    <Artikelnummer>1002</Artikelnummer>
+    <Modelnummer>35</Modelnummer>
+    <Serienummer>100235</Serienummer>
+    <AangemaaktOp>10/02/2021 13:34:25</AangemaaktOp>
+    <Garantieduur>10/02/2023 13:34:25</Garantieduur>
+    <Verpakking>0927fbe9-ff03-4691-9d08-a4ee61735225</Verpakking>
+    <BTW>0</BTW>
+  </Artikel>
+  <Artikel>
+    <ID>a011b882-01d4-4183-a408-281ffbdae1a9</ID>
+    <Naam>FN FAL</Naam>
+    <Omschrijving>Fusil automatique léger</Omschrijving>
+    <Type>automatisch wapen</Type>
+    <Gewicht>4</Gewicht>
+    <Prijs>2500</Prijs>
+    <Artikelnummer>1003</Artikelnummer>
+    <Modelnummer>1100</Modelnummer>
+    <Serienummer>10031100</Serienummer>
+    <AangemaaktOp>10/02/2021 13:46:30</AangemaaktOp>
+    <Garantieduur>10/02/2023 13:46:30</Garantieduur>
+    <Verpakking>456c1a4e-f218-4b0b-856a-8f3052e6b184</Verpakking>
+    <BTW>0</BTW>
+  </Artikel>
+  <Artikel>
+    <ID>909036c6-113b-4574-94aa-3920f07ddac5</ID>
+    <Naam>Frag Gren</Naam>
+    <Omschrijving>M72</Omschrijving>
+    <Type>Handgranaat</Type>
+    <Gewicht>0,23</Gewicht>
+    <Prijs>500</Prijs>
+    <Artikelnummer>1004</Artikelnummer>
+    <Modelnummer>72</Modelnummer>
+    <Serienummer>100472</Serienummer>
+    <AangemaaktOp>10/02/2021 13:53:34</AangemaaktOp>
+    <Garantieduur>10/02/2023 13:53:34</Garantieduur>
+    <Verpakking>baf97268-0645-4eea-8834-8aa5c9e4bdfd</Verpakking>
+    <BTW>21</BTW>
+  </Artikel>
+</Artikelen>

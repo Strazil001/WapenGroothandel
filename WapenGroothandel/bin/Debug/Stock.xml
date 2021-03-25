@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stock
+  datumtijd="12/02/2021 5:24:03 PM">
+  <Artikel>
+    <guid>c1404411-da76-4abd-aac6-5beefec6fee0</guid>
+    <naam>test</naam>
+    <omschrijving>test</omschrijving>
+    <type>test</type>
+    <gewicht>1</gewicht>
+    <prijs>1</prijs>
+    <artikelnummer>1</artikelnummer>
+    <modelnummer>1</modelnummer>
+    <serienummer>1</serienummer>
+    <aangemaaktOp>12/02/2021 5:21:21 PM</aangemaaktOp>
+    <garantieduur>12/02/2023 5:21:21 PM</garantieduur>
+    <verpakking>56e14de0-c7e2-4998-b804-a29cde1518e6</verpakking>
+    <btw>1</btw>
+    <Artikel>
+      <guid>afe7cda3-9fa8-47cc-8dc5-e43493bc9943</guid>
+      <naam>test 2</naam>
+      <omschrijving>test 2</omschrijving>
+      <type>test 2</type>
+      <gewicht>2</gewicht>
+      <prijs>2</prijs>
+      <artikelnummer>2</artikelnummer>
+      <modelnummer>2</modelnummer>
+      <serienummer>2</serienummer>
+      <aangemaaktOp>12/02/2021 5:23:57 PM</aangemaaktOp>
+      <garantieduur>12/02/2023 5:23:57 PM</garantieduur>
+      <verpakking>ae4f117d-9dd0-43e6-8c2d-97afd3eb03b5</verpakking>
+      <btw>2</btw>
+    </Artikel>
+  </Artikel>
+</Stock>

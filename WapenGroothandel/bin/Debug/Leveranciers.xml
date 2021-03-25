@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Leveranciers>
+  <Leverancier>
+    <ID>4203686e-9f0b-41a6-a8f0-cee3f00e29e8</ID>
+    <Naam>Wapenfabrikant</Naam>
+    <Voornaam>Belgian Army Supplies</Voornaam>
+    <TelefoonNummer>TelefoonNummer</TelefoonNummer>
+    <Email>Email</Email>
+    <BTW>BTW-Nummer</BTW>
+    <RekeningNummer>RekeningNummer</RekeningNummer>
+    <Contactpersoon>Contactpersoon</Contactpersoon>
+    <Opmerking>Wapenfabrikant in Belgie.</Opmerking>
+    <LeverancierArtikelen />
+  </Leverancier>
+</Leveranciers>
